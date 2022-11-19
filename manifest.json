@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
   "name": "ouo.io ouo.press autoclick",
-  "description": "Automatically click the “Captcha” and Download buttons on ouo.io and ouo.press.",
+  "description": "Automatically clicks the “Captcha” and Download buttons on ouo.io and ouo.press.",
   "version": "1.0.0",
   "content_scripts": [
     {
